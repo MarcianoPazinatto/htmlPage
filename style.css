@@ -1,0 +1,38 @@
+header {
+    background: #EEE5DE;
+}
+
+h1 img {
+  width: 30%;
+  margin: 0 0 0 100px;
+}
+
+
+nav {
+	position: absolute;
+	top: 45px;
+	right: 20px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+
+nav a:hover {
+	color: #473C8B;
+	text-decoration: underline;
+}
+
+.banner {
+	width:100%;
+}
